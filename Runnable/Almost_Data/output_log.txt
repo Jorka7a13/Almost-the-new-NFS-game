@@ -1,0 +1,20 @@
+Direct3D:
+    Version:  Direct3D 9.0c [C:\WINDOWS\System32\DriverStore\FileRepository\nvami.inf_amd64_fd2cdd92cf7ee187\nvd3dum.dll 21.21.13.7270]
+    Renderer: NVIDIA GeForce 840M
+    Vendor:   NVIDIA
+    VRAM:     1024 MB
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1280x720 at 0,0
+Non platform assembly: data-018FB990 (this message is harmless)
+Non platform assembly: data-01960658 (this message is harmless)
+Non platform assembly: data-019696F0 (this message is harmless)
+Non platform assembly: data-04A00048 (this message is harmless)
+Platform assembly: D:\GitHub Projects To Upload\Almost - The new NFS game\Runnable\Almost_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: D:\GitHub Projects To Upload\Almost - The new NFS game\Runnable\Almost_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\GitHub Projects To Upload\Almost - The new NFS game\Runnable\Almost_Data\Managed\Boo.Lang.dll (this message is harmless)
+Your 64 bit Windows installation is missing an imporant service pack patch. Please apply http://support.microsoft.com/kb/976038 to ensure stability.
+ 
+(Filename: C:/BuildAgent/work/6bc5f79e0a4296d6/PlatformDependent/Win/wow64.cpp Line: 42)
+
